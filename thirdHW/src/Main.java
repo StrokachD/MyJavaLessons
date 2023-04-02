@@ -1,8 +1,6 @@
-public class Main {
-
 import java.util.Scanner;
-    public class thirdHW {
-        public static void main(String[] args) {
+public class Main {
+    public static void main(String[] args) {
             String[][] myArray = new String[7][2];
             myArray[0][0] = "Sunday";
             myArray[0][1] = "do home work";
